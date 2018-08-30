@@ -1,0 +1,39 @@
+body {
+	background-color: blue;
+
+}
+
+
+
+main {
+	width: 60%;
+	margin: 0 auto;
+
+}
+
+.p1 {
+	border: 2px solid black;
+	color: yellow;
+	float: right;
+	display: inline;
+	font-size: 22px;
+
+
+}
+
+
+
+h1 {
+	border: 2px solid black;
+	text-align: center;
+	color: yellow;
+	font-size: 2.5em;
+}
+
+.skiss {
+	display: inline;
+	float: left;
+	width: 48%;
+	border: 2px solid black;
+	vertical-align: left;
+
